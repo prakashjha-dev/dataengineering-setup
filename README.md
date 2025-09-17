@@ -1,2 +1,2 @@
 # Data Engineering Setup Test
-This repo is just a GitHub sync test from VS Code.
+This repo is just a GitHub test sync to VS code
